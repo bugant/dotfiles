@@ -1,0 +1,14 @@
+[user]
+  email = bugant@centenaro.me
+  name = Matteo Centenaro
+[url "git@github.com:"]
+  insteadOf = https://github.com/
+[core]
+  editor = vim
+[alias]
+  l = log --oneline
+  lp = log -p
+  lg = log --oneline--graph --all --decorate
+  ln = log --name-only
+  c = checkout
+  b = branch
